@@ -31,7 +31,7 @@
 
 ### Jour 1 — Vocabulaire & suites explicites
 
-| 📺 **Yvan Monka** | [Suites - Généralités 1ère Spé (rappels)](https://www.youtube.com/playlist?list=PLVUDmbpupCaoqExMkHrhYvWi4dHnApgG_) | 10 min |
+| 📺 **Yvan Monka** | [LE COURS : Les suites - Terminale](https://www.youtube.com/watch?v=MJv7_pkFcdA) (11:55 — suites usuelles) | 10 min |
 |---|---|---|
 | 📖 **Cours** | Suite = fonction ℕ→ℝ. Explicite u_n=f(n) / récurrente u_{n+1}=f(u_n). Arthmétique : u_{n+1}=u_n+r, u_n=u_0+nr, S_n=n(u_0+u_n)/2. Géométrique : u_{n+1}=q×u_n, u_n=u_0×q^n, S_n=u_0×(1−q^{n+1})/(1−q) | 20 min |
 
@@ -43,7 +43,7 @@
 
 ### Jour 2 — Suites définies par récurrence
 
-| 📺 **Hedacademy** | [Les suites en 1ère Spé maths](https://www.youtube.com/playlist?list=PLSOFOcyBRpIibAHTL_6vipZQog_LPaRDN) | 8 min |
+| 📺 **Hedacademy** | [Playlist Suites 1ère (rappels)](https://www.youtube.com/playlist?list=PLSOFOcyBRpIibAHTL_6vipZQog_LPaRDN) | 8 min |
 |---|---|---|
 | 📖 **Cours** | u_{n+1}=f(u_n). Méthode graphique (toile d'araignée). Il faut un premier terme + une relation. Représentation : placer u_0 sur f, construire u_1=f(u_0), etc. | 22 min |
 
@@ -55,7 +55,7 @@
 
 ### Jour 3 — Sens de variation
 
-| 📺 **Yvan Monka** | [Les suites - Tale Spé (cours complet)](https://www.youtube.com/playlist?list=PLVUDmbpupCarZdaGUMO7DV35pi1I8zIJZ) | 15 min |
+| 📺 **Yvan Monka** | [LE COURS : Les suites - Terminale](https://www.youtube.com/watch?v=MJv7_pkFcdA) (début — variations) | 15 min |
 |---|---|---|
 | 📖 **Cours** | Deux méthodes : (1) u_{n+1}−u_n → étudier le signe. (2) Si u_n>0, u_{n+1}/u_n → comparer à 1. Suite croissante ⇔ ∀n, u_{n+1}≥u_n. Décroissante ⇔ ∀n, u_{n+1}≤u_n. | 25 min |
 
@@ -63,7 +63,7 @@
 
 ### Jour 4 — Raisonnement par récurrence
 
-| 📺 **Hedacademy** | [Démonstration par récurrence - Term Spé](https://youtube.com/playlist?list=PLSOFOcyBRpIhzlWY3pUXU_c6Zo2xn2Boy) | 12 min |
+| 📺 **Hedacademy** | [Playlist Suites Terminale](https://www.youtube.com/playlist?list=PLSOFOcyBRpIhzlWY3pUXU_c6Zo2xn2Boy) (récurrence) | 12 min |
 |---|---|---|
 | 📖 **Cours** | Principe : Initialisation (P(0) vraie) + Hérédité (P(n)⇒P(n+1)) → P vraie ∀n. Structure de rédaction obligatoire. | 20 min |
 
@@ -71,7 +71,7 @@
 
 ### Jour 5 — Suites arithmético-géométriques & bilan
 
-| 📺 **Yvan Monka** | [LE COURS : Les suites - Terminale](https://www.youtube.com/watch?v=MJv7_pkFcdA) (2e partie) | 15 min |
+| 📺 **Yvan Monka** | [LE COURS : Les suites - Terminale](https://www.youtube.com/watch?v=MJv7_pkFcdA) (13:00 — opérations, géométriques) | 15 min |
 |---|---|---|
 | 📖 **Cours** | Suite u_{n+1}=au_n+b (a≠1). Méthode : trouver α tel que α=aα+b (point fixe), poser v_n=u_n−α. Alors v_n est géométrique de raison a. | 20 min |
 
@@ -131,7 +131,7 @@
 
 ### Jour 11 — Limites de fonctions
 
-| 📺 **Yvan Monka** | [Limites de fonctions - Terminale](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 15 min |
+| 📺 **Yvan Monka** | [LE COURS : Notion de limite d'une fonction](https://www.youtube.com/watch?v=YPwJyYDsmxM) | 15 min |
 |---|---|---|
 | 📖 **Cours** | Limite finie/infinie en +∞/−∞/en un point. Asymptote horizontale/verticale. Factorisation par le terme de plus haut degré. | 25 min |
 
@@ -139,7 +139,7 @@
 
 ### Jour 12 — Continuité & TVI
 
-| 📺 **Yvan Monka** | [Continuité TVI - Terminale](https://www.youtube.com/watch?v=MJv7_pkFcdA) | 12 min |
+| 📺 **Yvan Monka** | [LE COURS : Continuité d'une fonction - Terminale](https://www.youtube.com/watch?v=9SSEUoyHh2s) | 12 min |
 |---|---|---|
 | 📖 **Cours** | Fonction continue = courbe sans lever le crayon. Toute fonction dérivable est continue. TVI : si f continue sur [a,b] et k entre f(a) et f(b), alors ∃c∈[a,b] f(c)=k. | 25 min |
 
@@ -147,7 +147,7 @@
 
 ### Jour 13 — Fonction exponentielle (révision)
 
-| 📺 **Hedacademy** | [Fonction exponentielle](https://www.youtube.com/@hedacademy) | 15 min |
+| 📺 **Hedacademy** | [Playlist Fonction exponentielle](https://www.youtube.com/@hedacademy) | 15 min |
 |---|---|---|
 | 📖 **Cours** | exp(x) unique f telle que f'=f et f(0)=1. exp(a+b)=exp(a)exp(b), exp(x)>0, limites. Dérivée e^{u} = u'e^{u}. | 25 min |
 
@@ -176,7 +176,7 @@
 
 ### Jour 16 — Logarithme népérien
 
-| 📺 **Yvan Monka** | [Logarithme népérien - Terminale](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 15 min |
+| 📺 **Yvan Monka** | [LE COURS : Fonction logarithme népérien](https://www.youtube.com/watch?v=VJns0RfVWGg) | 15 min |
 |---|---|---|
 | 📖 **Cours** | ln(x) sur ]0,+∞[, ln(ab)=ln a+ln b, ln(a/b)=ln a−ln b, ln(a^n)=n ln a. ln(1)=0, ln(e)=1. Dérivée ln'(x)=1/x. ln(x)/x→0, x ln x→0. | 25 min |
 
@@ -184,7 +184,7 @@
 
 ### Jour 17 — Logarithmes & limites
 
-| 📺 **Hedacademy** | [Logarithmes](https://www.youtube.com/@hedacademy) | 12 min |
+| 📺 **Hedacademy** | [Playlist Terminale Spé](https://www.youtube.com/playlist?list=PLSOFOcyBRpIhzlWY3pUXU_c6Zo2xn2Boy) (log) | 12 min |
 |---|---|---|
 | 📖 **Cours** | 4 limites à connaître : lim_{0⁺} ln x = −∞, lim_{+∞} ln x = +∞, lim_{+∞} ln x/x = 0, lim_{0⁺} x ln x = 0. Composée ln(u) : (ln u)' = u'/u. | 22 min |
 
@@ -195,7 +195,7 @@
 
 ### Jour 18 — Fonctions sinus et cosinus
 
-| 📺 **Yvan Monka** | [Fonctions trigo - Terminale](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 12 min |
+| 📺 **Yvan Monka** | [Playlist Dérivation - Tale Spé](https://www.youtube.com/playlist?list=PL_YUMxC_BtYNOjDC9PvfsDesucMvEhcqh) (trigo) | 12 min |
 |---|---|---|
 | 📖 **Cours** | sin' = cos, cos' = −sin. Sinus impair, cosinus pair. Périodiques 2π. Bornées [−1,1]. sin'(ax+b) = a cos(ax+b). | 25 min |
 
@@ -203,7 +203,7 @@
 
 ### Jour 19 — Convexité
 
-| 📺 **Yvan Monka** | [Convexité - Terminale](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 10 min |
+| 📺 **Yvan Monka** | [LE COURS : Dérivation - Terminale](https://www.youtube.com/watch?v=XAgdHblbajE) (15:46 — convexité) | 10 min |
 |---|---|---|
 | 📖 **Cours** | f convexe ⇔ f''(x)≥0 (courbe au-dessus tangentes). f concave ⇔ f''(x)≤0 (courbe en-dessous). Point d'inflexion : f'' change de signe. e^x convexe, ln concave, x² convexe. | 25 min |
 
@@ -224,7 +224,7 @@
 
 ### Jour 21 — Vecteurs dans l'espace & repérage
 
-| 📺 **Yvan Monka** | [Géométrie dans l'espace](https://www.youtube.com/watch?v=naOM6YG6DJc) | 15 min |
+| 📺 **Yvan Monka** | [LE COURS : Vecteurs, droites et plans de l'espace](https://www.youtube.com/watch?v=EoT48VtnUJ4) | 15 min |
 |---|---|---|
 | 📖 **Cours** | ℝ³, vecteurs (x,y,z), somme, multiplication scalaire, norme, colinéarité. Points alignés si vecteurs colinéaires. Milieu, distance entre deux points. | 25 min |
 
@@ -232,7 +232,7 @@
 
 ### Jour 22 — Droites et plans
 
-| 📺 **Hedacademy** | [Géométrie espace](https://www.youtube.com/@hedacademy) | 15 min |
+| 📺 **Hedacademy** | [Playlist Terminale Spé](https://www.youtube.com/playlist?list=PLSOFOcyBRpIhzlWY3pUXU_c6Zo2xn2Boy) (géométrie) | 15 min |
 |---|---|---|
 | 📖 **Cours** | Représentation paramétrique droite : M = A + t v. Équation cartésienne plan : ax+by+cz+d=0. Vecteur normal n(a,b,c). Trois points non alignés → plan. | 25 min |
 
@@ -248,7 +248,7 @@
 
 ### Jour 24 — Combinatoire & dénombrement
 
-| 📺 **Yvan Monka** | [Combinatoire - Terminale](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 12 min |
+| 📺 **Yvan Monka** | [Combinatoire - maths-et-tiques](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 12 min |
 |---|---|---|
 | 📖 **Cours** | n! = n×(n−1)×…×1. Arrangement A(n,k) = n!/(n−k)! (ordre important). Combinaison C(n,k) = n!/(k!(n−k)!) (ordre pas important). Triangle de Pascal. | 25 min |
 
@@ -269,7 +269,7 @@
 
 ### Jour 26 — Primitives
 
-| 📺 **Yvan Monka** | [Primitives - Terminale](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 12 min |
+| 📺 **Yvan Monka** | [LE COURS : Les primitives - Terminale](https://youtu.be/bQ-eS1zZCdw) | 12 min |
 |---|---|---|
 | 📖 **Cours** | F primitive de f si F'=f. Tableau : x^n → x^{n+1}/(n+1), 1/x→ln|x|, e^x→e^x, sin→−cos, cos→sin. u'e^u = e^u, u'/u = ln|u|. | 25 min |
 
@@ -277,7 +277,7 @@
 
 ### Jour 27 — Calcul intégral
 
-| 📺 **Yvan Monka** | [Calcul intégral - Terminale](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 15 min |
+| 📺 **Yvan Monka** | [LE COURS : Intégration - Terminale](https://www.youtube.com/watch?v=pFKzXZrMVxs) | 15 min |
 |---|---|---|
 | 📖 **Cours** | ∫_a^b f = F(b)−F(a). Propriétés : linéarité, Chasles, positivité. Valeur moyenne = (1/(b−a))∫_a^b f. Aires : ∫|f−g|. | 25 min |
 
@@ -285,7 +285,7 @@
 
 ### Jour 28 — Loi binomiale (rappel 1ère)
 
-| 📺 **Hedacademy** | [Loi binomiale](https://www.youtube.com/@hedacademy) | 15 min |
+| 📺 **Hedacademy** | [Playlist Terminale Spé](https://www.youtube.com/playlist?list=PLSOFOcyBRpIhzlWY3pUXU_c6Zo2xn2Boy) (loi binomiale) | 15 min |
 |---|---|---|
 | 📖 **Cours** | Schéma Bernoulli : n répétitions indép., succès p. X∼B(n,p). P(X=k)=C(n,k)×p^k×(1−p)^{n−k}. E=np, V=np(1−p). | 25 min |
 
@@ -293,7 +293,7 @@
 
 ### Jour 29 — Somme de variables aléatoires
 
-| 📺 **Hedacademy** | [Somme variables aléatoires](https://www.youtube.com/@hedacademy) | 12 min |
+| 📺 **Hedacademy** | [Playlist Terminale Spé](https://www.youtube.com/playlist?list=PLSOFOcyBRpIhzlWY3pUXU_c6Zo2xn2Boy) (somme VA) | 12 min |
 |---|---|---|
 | 📖 **Cours** | X,Y indép. : E(X+Y)=E(X)+E(Y), V(X+Y)=V(X)+V(Y). Si X_i∼Bernoulli(p) alors S_n=∑X_i∼B(n,p). | 25 min |
 
@@ -314,7 +314,7 @@
 
 ### Jour 31 — Équations différentielles y'=ay et y'=ay+b
 
-| 📺 **Yvan Monka** | [Équations différentielles - Terminale](https://www.maths-et-tiques.fr/index.php/cours-maths/niveau-terminale) | 15 min |
+| 📺 **Yvan Monka** | [LE COURS : Équations différentielles](https://www.youtube.com/watch?v=qHF5kiDFkW8) | 15 min |
 |---|---|---|
 | 📖 **Cours** | y'=ay → y(t)=Ce^{at}. y'=ay+b → y(t)=Ce^{at}−b/a. Condition initiale → C. Modélisation : radioactivité y'=−ky, Newton T'=k(T−T_a). | 25 min |
 
@@ -322,7 +322,7 @@
 
 ### Jour 32 — Applications équations différentielles
 
-| 📺 **Hedacademy** | [Équations différentielles](https://www.youtube.com/@hedacademy) | 12 min |
+| 📺 **Hedacademy** | [Playlist Terminale Spé](https://www.youtube.com/playlist?list=PLSOFOcyBRpIhzlWY3pUXU_c6Zo2xn2Boy) (équa. diff.) | 12 min |
 |---|---|---|
 | 📖 **Cours** | Problèmes concrets : médicament y'=−ky, refroidissement, population. Savoir poser l'équation, résoudre, interpréter. | 25 min |
 
@@ -333,7 +333,7 @@
 
 ### Jour 33 — Concentration & loi des grands nombres
 
-| 📺 **Yvan Monka** | [Inégalité Bienaymé-Tchebychev](https://www.youtube.com/@ymonka) | 15 min |
+| 📺 **Yvan Monka** | [Inégalité de Bienaymé-Tchebychev](https://www.youtube.com/watch?v=_ZzxgjAxrt4) | 15 min |
 |---|---|---|
 | 📖 **Cours** | Bienaymé-Tchebychev : P(|X−E(X)|≥δ) ≤ V(X)/δ². LGN : moyenne empirique → espérance. Sondages, échantillonnage. | 25 min |
 
